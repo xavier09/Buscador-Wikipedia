@@ -8,13 +8,13 @@ Pasos para iniciar el backend (API):
 
 1- cd .\Backend\
 
-2-instala las dependencias del archivo requirements.txt, de esta forma:
+2- python -m venv env
+
+3- env/scripts/activate.ps1
+
+4-instala las dependencias del archivo requirements.txt, de esta forma:
 
 pip install -r requirements.txt
-
-3- python -m venv env
-
-4- env/scripts/activate.ps1
 
 5- uvicorn Endpoints:app
 
