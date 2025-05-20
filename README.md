@@ -37,6 +37,10 @@ Pasos para iniciar el frontend (Visual):
 
 5-presione w para abrir en el navegador
 
+
+
+
+
 Breve descripción de decisiones de diseño y arquitectura.
 
 Dado los requisitos, se opto por utilizar:
@@ -48,6 +52,10 @@ python para backend y API
 como base de datos se utilizo la ultima version de progress
 
 Para mayor agilidad de navegacion se opto por un diseño de 2 pestañas en la visual una para buscar articulos y otra para listar los articulos guardados.
+
+
+
+
 
 Definición de los endpoints de la API.
 
