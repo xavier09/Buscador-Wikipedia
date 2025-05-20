@@ -12,9 +12,11 @@ Pasos para iniciar el backend (API):
 
 pip install -r requirements.txt
 
-3- env/scripts/activate.ps1
+3- python -m venv env
 
-4- uvicorn Endpoints:app
+4- env/scripts/activate.ps1
+
+5- uvicorn Endpoints:app
 
 En la otra terminar esto:
 
