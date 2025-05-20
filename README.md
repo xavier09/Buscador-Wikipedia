@@ -5,6 +5,7 @@ Divide la terminar en dos haciendo click en powershell y luego en split terminal
 En una de las terminales haz esto:
 
 Pasos para iniciar el backend (API):
+
 1- cd .\Backend\
 
 2-instala las dependencias del archivo requirements.txt, de esta forma:
