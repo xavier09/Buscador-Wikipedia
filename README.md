@@ -41,6 +41,7 @@ Pasos para iniciar el frontend (Visual):
 
 
 
+
 Breve descripción de decisiones de diseño y arquitectura.
 
 Dado los requisitos, se opto por utilizar:
